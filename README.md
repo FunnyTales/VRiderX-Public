@@ -9,6 +9,8 @@ Challenge the world in 3 multiplayer modes: Elimination Frenzy (last rider stand
 Designed for thrill-seekers, casual gamers, and bike fanatics, VRider X offers unlockable bikes, enhanced handling, and deep customization.
 Whether you’re a social competitor or an arcade racing fan, VRider X delivers fast-paced VR action with high replayability. Get ready to race, customize, and dominate the leaderboard!
 
+[![link to trailer](.github/video-preview.png)](https://youtu.be/S1yWT8aT1Mg)
+
 ## Genre
 Arcade Racing
 
